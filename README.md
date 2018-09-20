@@ -2,6 +2,8 @@ Reliable-Data-Transfer
 ======================
 `Due: Nov. 6th midnight`
 
+This code implemented the famouse go_back_N.
+
 This code implements the Alternating Bit Protocol (rdt3.0) simulating the client and server.
 
 ![A/B](http://www.cs.ucf.edu/~czou/CNT4704/PA-2.h1.gif)
